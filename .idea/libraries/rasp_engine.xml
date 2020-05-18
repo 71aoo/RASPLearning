@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rasp-engine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/rasp-engine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
